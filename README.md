@@ -4,6 +4,7 @@
 - 
 - 📫 How to reach me LinkedIn philip-harland-bn1
 
+- Please ALSO look at github account RocketPoweredChimpGames for MORE of my projects!
 <!---
 harlandpj/harlandpj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
