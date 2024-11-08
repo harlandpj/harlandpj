@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @harlandpj
 - 👀 I’m interested in Games Development in C++, C# and Unity
-- 🌱 I’m currently developing games in Unreal Engine (UE5), C#/Unity, and slowly learning Unreal engine since June 2023.
+- 🌱 I’m currently developing games in Unreal Engine (UE5), C#/Unity, and learning Unreal engine since June 2023.
 - 
 - 📫 How to reach me LinkedIn philip-harland-bn1
 
