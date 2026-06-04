@@ -34,7 +34,7 @@ A versatile Software Engineer combining **8+ years of professional enterprise C+
 ## ⚠️ NOTE ON PERSONAL GITHUB REPOSITORIES
 Please note that standalone repositories directly hosted on this personal profile represent **rapid prototypes developed under strict, compressed timeframes for hackathons and game jams**. By design, these specific files prioritize high-speed feature iteration and meeting rigid deadlines under pressure over long-term architectural patterns.
 
-* **My primary gameplay systems, architecture breakdowns, and published game releases are hosted externally. Please navigate directly to my [Itch.io Portfolio](https://itch.io) to view system demonstrations and play live builds.**
+* **My primary gameplay systems, architecture breakdowns, and published game releases are hosted externally. Please navigate directly to my [Itch.io Portfolio](https://p-harland.itch.io/) to view system demonstrations and play live builds.**
 
 ---
 
@@ -63,6 +63,6 @@ Prior to focusing on standalone game production, I delivered critical feature ad
 ---
 
 ## 📫 Let's Connect
-* 💼 **LinkedIn:** [://linkedin.com](https://www.://linkedin.com/)
-* 🎮 **Itch.io Portfolio:** [p-harland.itch.io](https://itch.io)
+* 💼 **LinkedIn:** [://linkedin.com/philip-harland-bn1](https://www.linkedin.com/in/philip-harland-bn1/)
+* 🎮 **Itch.io Portfolio:** [p-harland.itch.io](https://p-harland.itch.io/)
 * 📧 **Email:** phil_harland@yahoo.com
