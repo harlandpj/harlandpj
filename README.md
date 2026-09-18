@@ -33,7 +33,8 @@ A versatile Software Engineer combining **8+ years of professional enterprise C+
 
 ## ⚠️ NOTE ON PERSONAL GITHUB REPOSITORIES
 Please note that standalone repositories directly hosted on this personal profile represent **rapid prototypes developed under strict, compressed timeframes for hackathons and game jams**. By design, these specific files prioritize high-speed feature iteration and meeting rigid deadlines under pressure over long-term architectural patterns.
-I now self-host (Perforce P4) my current Unreal Engine development work so this is obviously not shown here.
+
+I now self-host (Perforce P4) my current Unreal Engine development work so this is obviously not shown here / and the "activity graph" here will now be empty!
 
 * **My primary gameplay systems, architecture breakdowns, and published game releases are hosted externally. Please navigate directly to my [Itch.io Portfolio](https://p-harland.itch.io/) to view system demonstrations and play live builds.**
 
