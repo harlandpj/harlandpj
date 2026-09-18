@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 Professional Profile
-A versatile Software Engineer combining **8+ years of professional enterprise C++ experience** with **5+ years of self-directed game production**. Proven track record of planning, programming, and successfully publishing 3 commercial titles on PC. Extensive experience in refactoring complex legacy systems, accelerating bug-resolution pipelines, and delivering robust greenfield implementations. Adept at bridging native software engineering fundamentals with modern high-level engine tools to build stable gameplay frameworks.
+A versatile Software Engineer combining **8+ years of professional enterprise C++ experience** with **6+ years of self-directed game production**. Proven track record of planning, programming, and successfully publishing 3 commercial titles on PC. Extensive experience in refactoring complex legacy systems, accelerating bug-resolution pipelines, and delivering robust greenfield implementations. Adept at bridging native software engineering fundamentals with modern high-level engine tools to build stable gameplay frameworks.
 
 ---
 
